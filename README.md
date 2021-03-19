@@ -1,6 +1,6 @@
 # BREW_CREW
 
-A new Demo Flutter project from me to mankind.
+A new Dummy Flutter project from me to mankind.
 
 ## Getting Started
 
