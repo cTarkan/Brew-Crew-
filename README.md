@@ -1,6 +1,6 @@
 # brew_crew
 
-A new Demo Flutter project for myself.
+A new Demo Flutter project from me to human mankind.
 
 ## Getting Started
 
