@@ -4,7 +4,7 @@ A new Demo Flutter project from me to mankind.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. It based on a tutorial of NetNinja Youtube Video. Check his channel he is awesome
+This project is a starting point for a Flutter application. It based on a tutorial of NetNinja Youtube Video. Check his channel he is awesome.
 
 A few resources to get you started if this is your first Flutter project:
 
